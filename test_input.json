@@ -1,0 +1,14 @@
+{
+  "input": {
+    "lora_file_name": "laksheya-geraldine_viswanathan-FLUX",
+    "trigger_word": "geraldine viswanathan",
+    "gender":"woman",
+    "data_url": "https://minio-api.cloud.navin-hariharan.com/flux-lora/dataset.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=96RW3IORK50QUXTZKKNK%2F20240824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240824T130359Z&X-Amz-Expires=43200&X-Amz-Security-Token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NLZXkiOiI5NlJXM0lPUks1MFFVWFRaS0tOSyIsImV4cCI6MTcyNDU0NTk0MywicGFyZW50IjoibmF2aW5faGFyaWhhcmFuIn0.tM9b-Mvoo3zhy6QEQdHRXSZfugCz5JKHe2GhjE4BC75ZilZhlin_LAtd9FM3w4RdTk5X563O4YkxyCf6gtJxzg&X-Amz-SignedHeaders=host&versionId=null&X-Amz-Signature=7f1bd737ba634d4906ced4ae344d825b9a7e18d5308264d7f075133de28346ce"
+  },
+  "s3Config": {
+    "accessId": "YGIB9ZKS4Yvri3wm2K9l",
+    "accessSecret": "cbuIXYjAGTdK1kxYZcX0k740HSEhRgfcEILtxit7",
+    "bucketName": "flux-lora",
+    "endpointUrl": "https://minio-api.cloud.navin-hariharan.com"
+  }
+}
